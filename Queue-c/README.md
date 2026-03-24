@@ -4,7 +4,7 @@
 ## Deskripsi
 Program ini mensimulasikan antrian sederhana menggunakan **queue**.  
 Data masuk antrian menggunakan **enqueue**, dilayani menggunakan **dequeue**.  
-Queue menggunakan **array statis** dengan variabel `front` & `rear`.
+Queue menggunakan **array statis** dengan variabel front & rear.
 
 ---
 

@@ -25,5 +25,5 @@ Reversed: AHKAR
 1. Compile:
 ```bash
 gcc main.c -o reverse
-
+./reverse
 

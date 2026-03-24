@@ -24,6 +24,6 @@ Reversed: AHKAR
 ## Cara Run
 1. Compile:
 ```bash
-gcc main.c -o reverse
+gcc Stack_Case_1.c -o reverse
 ./reverse
 

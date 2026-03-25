@@ -31,6 +31,5 @@ Antrian sekarang: 2 3 4
 
 ## Cara Run
 1. Compile:
-```bash
-gcc Queue_Case_1.c -o queue
-./queue
+
+gcc Queue_Case_1.c -o queue, lalu ./queue

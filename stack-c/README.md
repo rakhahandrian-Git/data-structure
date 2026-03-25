@@ -23,7 +23,7 @@ Reversed: AHKAR
 
 ## Cara Run
 1. Compile:
-gcc Stack_Case_1.c -o reverse
+gcc Stack_Case_1.c -o reverse, lalu
 ./reverse
 
 

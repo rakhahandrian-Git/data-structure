@@ -33,3 +33,5 @@ Antrian sekarang: 2 3 4
 1. Compile:
 
 gcc Queue_Case_1.c -o queue, lalu ./queue
+
+Video: https://drive.google.com/file/d/1TxwuCgcWxbAl_27uiYYONDJJguMzJpxo/view?usp=drive_link

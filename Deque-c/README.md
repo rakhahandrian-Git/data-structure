@@ -40,3 +40,5 @@ Deque sekarang: 5 2 4
 bash
 gcc Deque_Case_1.c -o deque, lalu ./deque
 
+Demo: https://drive.google.com/file/d/1-mDO-LPkWiQqNTYxET3ArmUbeii4dolk/view?usp=drive_link
+

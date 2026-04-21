@@ -19,7 +19,8 @@ Rotation is needed to:
 
 Balance Factor is the difference between the height of the left subtree and the height of the right subtree of a node.
 
-<img width="3750" height="3125" alt="image" src="https://github.com/user-attachments/assets/c83af86b-03a0-4cf5-a283-56fa3376715e" />
+<img width="3750" height="3125" alt="image" src="https://github.com/user-attachments/assets/f8b18219-6d6c-4b2c-b4b3-49b2ef78bd43" />
+
 
 
 Where:

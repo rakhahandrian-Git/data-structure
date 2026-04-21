@@ -19,7 +19,8 @@ Rotation is needed to:
 
 Balance Factor is the difference between the height of the left subtree and the height of the right subtree of a node.
 
-:contentReference[oaicite:0]{index=0}
+<img width="3750" height="3125" alt="image" src="https://github.com/user-attachments/assets/c83af86b-03a0-4cf5-a283-56fa3376715e" />
+
 
 Where:
 
